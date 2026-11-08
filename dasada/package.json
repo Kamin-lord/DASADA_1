@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "main": "server/index.js",
   "scripts": {
     "start": "node --no-warnings server/index.js",
     "test": "node --no-warnings --test server/test.mjs"
